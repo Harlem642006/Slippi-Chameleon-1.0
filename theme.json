@@ -1,0 +1,32 @@
+{
+  "background": {
+    "mode": "gradient",
+    "colors": [
+      "#690202",
+      "#000000"
+    ],
+    "angle": 93
+  },
+  "colors": {},
+  "gradients": {
+    "headerLeft": {
+      "colors": [
+        "#1E1A1A",
+        "#520004"
+      ],
+      "angle": 90
+    }
+  },
+  "rules": {
+    "div[class~=\"yQsUU7KutVEZiQFsfgEh\"]": {
+      "background": "#F20707"
+    },
+    "button[class~=\"MuiButtonBase-root\"][class~=\"MuiButton-root\"][class~=\"MuiButton-contained\"][class~=\"MuiButton-containedInherit\"][class~=\"MuiButton-sizeMedium\"][class~=\"MuiButton-containedSizeMedium\"][class~=\"MuiButton-colorInherit\"][class~=\"css-12buxq2\"]": {
+      "background": "#2B1414",
+      "text": "#E0D1D7"
+    },
+    "div[class~=\"MuiPaper-root\"][class~=\"MuiPaper-elevation\"][class~=\"MuiPaper-rounded\"][class~=\"MuiPaper-elevation1\"][class~=\"css-npit0k\"]:nth-of-type(1)": {
+      "background": "#400909"
+    }
+  }
+}

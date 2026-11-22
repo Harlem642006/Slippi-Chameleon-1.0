@@ -1,0 +1,16 @@
+{
+  "name": "slippi-chameleon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unofficial theme overlay for Slippi Launcher. Not affiliated with Slippi.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "chrome-remote-interface": "^0.33.3"
+  }
+}
